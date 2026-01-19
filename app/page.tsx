@@ -18,7 +18,7 @@ export default async function Home() {
       
       <div className="w-full max-w-md">
         <h1 className="text-3xl font-bold mb-8 text-center text-blue-400">
-          Kullanıcı Yönetimi
+          Kullanıcı Yönetimi v2
         </h1>
 
         {/* --- EKLEME FORMU --- */}
